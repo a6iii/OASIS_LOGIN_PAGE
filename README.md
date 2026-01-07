@@ -34,7 +34,7 @@ The system uses Python and file handling to store and validate user credentials 
 
 ## How to Run
 1. Clone the repository:
-git clone https://github.com//OASIS_Login_Project.git
+git clone https://github.com//OASIS_Login_Page.git
 
 2. Open the project folder in VS Code  
 3. Run the program in terminal:
